@@ -1,0 +1,6 @@
+/home/ale/Projects/tiendita/tiendita/obj/x86/Debug/tiendita.csprojAssemblyReference.cache
+/home/ale/Projects/tiendita/tiendita/obj/x86/Debug/tiendita.csproj.CoreCompileInputs.cache
+/home/ale/Projects/tiendita/tiendita/bin/Debug/tiendita.exe
+/home/ale/Projects/tiendita/tiendita/bin/Debug/tiendita.pdb
+/home/ale/Projects/tiendita/tiendita/obj/x86/Debug/tiendita.exe
+/home/ale/Projects/tiendita/tiendita/obj/x86/Debug/tiendita.pdb

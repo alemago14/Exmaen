@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{01F0FF6A-0712-4486-99E3-9E55BBAD9CEA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tiendita/Cotizacion.cs">
+    <Files>
+      <File FileName="tiendita/Program.cs" Line="19" Column="1" />
+      <File FileName="tiendita/Tienda.cs" Line="12" Column="22" />
+      <File FileName="tiendita/Vendedor.cs" Line="25" Column="1" />
+      <File FileName="tiendita/Cotizacion.cs" Line="34" Column="40" />
+      <File FileName="tiendita/Prenda.cs" Line="7" Column="24" />
+      <File FileName="tiendita/Camisa.cs" Line="13" Column="10" />
+      <File FileName="tiendita/Pantalon.cs" Line="12" Column="99" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tiendita" expanded="True">
+            <Node name="tiendita" expanded="True">
+              <Node name="Cotizacion.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tiendita PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
