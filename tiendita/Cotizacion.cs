@@ -23,28 +23,42 @@ namespace tiendita
         {
         }
 
-       public float PrecioFinal()
+        public float PrecioFinal()
         {
             float preciofinal;
             preciofinal = prendaCotizada.precio * cantUnidades;
             if (prendaCotizada.calidad == "Premium")
             {
-                preciofinal = preciofinal + (preciofinal /100*30);
+                preciofinal = preciofinal + (preciofinal / 100 * 30);
             }
-            if(prendaCotizada.manga == "Corta")
+            if (prendaCotizada.manga == "Corta")
+            {
+                preciofinal = preciofinal - (preciofinal / 100 * 10);
+            }
+            if (prendaCotizada.cuello = "Mao")
             {
                 preciofinal = preciofinal + (preciofinal / 100 * 3);
             }
-        }
+            if ((prendaCotizada.manga == "Corta") && (prendaCotizada.cuello = "Mao"))
+            {
+                preciofinal = preciofinal - (preciofinal / 100 * 10);
+            }
+            if (prendaCotizada.tipo == "Chupin")
+            {
+                preciofinal = preciofinal - (preciofinal / 100 * 12);
 
-        public void Imprimir()
-        {
-            Console.WriteLine("Cotizacion" +codigoCotizacion);
-            Console.WriteLine("prenda cotizada:");
-            prendaCotizada.Imprimir();
-            Console.WriteLine("UNIDADES: " + cantUnidades);
-            Console.WriteLine("Vendedor: " + codigoVendedor);
+                return preciofinal;
+            }
 
+            public void Imprimir()
+            {
+                Console.WriteLine("Cotizacion" + codigoCotizacion);
+                Console.WriteLine("prenda cotizada:");
+                prendaCotizada.Imprimir();
+                Console.WriteLine("UNIDADES: " + cantUnidades);
+                Console.WriteLine("Vendedor: " + codigoVendedor);
+
+            }
         }
+    } 
     }
-}
