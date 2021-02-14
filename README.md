@@ -1,6 +1,5 @@
 # Exmaen
 
-Por favor, especifica tu nombre completo: Miguel Alejandro Maugouber
 
 ¿C# permite herencia múltiple? - No permite para los casos que debamos elegir algo similar a la herencia multiple deberemos emplear interfaces.
 
