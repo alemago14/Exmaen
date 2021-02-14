@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{01F0FF6A-0712-4486-99E3-9E55BBAD9CEA}</ProjectGuid>
+    <ProjectGuid>{B921F640-1DF5-471C-AE8A-848B01AC0EAE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>tiendita</RootNamespace>
-    <AssemblyName>tiendita</AssemblyName>
+    <RootNamespace>tienditaa</RootNamespace>
+    <AssemblyName>tienditaa</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -34,9 +34,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tienda.cs" />
     <Compile Include="Vendedor.cs" />
     <Compile Include="Cotizacion.cs" />
+    <Compile Include="TiendaDeRopa.cs" />
     <Compile Include="Prenda.cs" />
     <Compile Include="Camisa.cs" />
     <Compile Include="Pantalon.cs" />

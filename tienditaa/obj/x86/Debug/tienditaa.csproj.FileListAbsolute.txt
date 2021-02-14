@@ -1,0 +1,6 @@
+/home/ale/Projects/tienditaa/tienditaa/obj/x86/Debug/tienditaa.csprojAssemblyReference.cache
+/home/ale/Projects/tienditaa/tienditaa/obj/x86/Debug/tienditaa.csproj.CoreCompileInputs.cache
+/home/ale/Projects/tienditaa/tienditaa/bin/Debug/tienditaa.exe
+/home/ale/Projects/tienditaa/tienditaa/bin/Debug/tienditaa.pdb
+/home/ale/Projects/tienditaa/tienditaa/obj/x86/Debug/tienditaa.exe
+/home/ale/Projects/tienditaa/tienditaa/obj/x86/Debug/tienditaa.pdb
