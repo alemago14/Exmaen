@@ -1,20 +1,22 @@
-﻿<Properties StartupConfiguration="{01F0FF6A-0712-4486-99E3-9E55BBAD9CEA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="tiendita/Cotizacion.cs">
+﻿<Properties StartupConfiguration="{44ECDF46-DE4E-4020-B899-EFA64D1D48B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tiendita/Controlador.cs">
     <Files>
-      <File FileName="tiendita/Program.cs" Line="19" Column="1" />
-      <File FileName="tiendita/Tienda.cs" Line="12" Column="22" />
-      <File FileName="tiendita/Vendedor.cs" Line="25" Column="1" />
-      <File FileName="tiendita/Cotizacion.cs" Line="34" Column="40" />
-      <File FileName="tiendita/Prenda.cs" Line="7" Column="24" />
-      <File FileName="tiendita/Camisa.cs" Line="13" Column="10" />
-      <File FileName="tiendita/Pantalon.cs" Line="12" Column="99" />
+      <File FileName="tiendita/Vendedor.cs" Line="54" Column="56" />
+      <File FileName="tiendita/Cotizacion.cs" Line="43" Column="45" />
+      <File FileName="tiendita/TiendadeRopa.cs" Line="16" Column="24" />
+      <File FileName="tiendita/Prenda.cs" Line="24" Column="47" />
+      <File FileName="tiendita/Camisa.cs" Line="42" Column="58" />
+      <File FileName="tiendita/Pantalon.cs" Line="34" Column="55" />
+      <File FileName="tiendita/Program.cs" Line="10" Column="10" />
+      <File FileName="tiendita/Controlador.cs" Line="19" Column="9" />
+      <File FileName="tiendita/MainWindow.cs" Line="65" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="tiendita" expanded="True">
             <Node name="tiendita" expanded="True">
-              <Node name="Cotizacion.cs" selected="True" />
+              <Node name="Controlador.cs" selected="True" />
             </Node>
           </Node>
         </State>
